@@ -1,0 +1,6 @@
+@HDCSE53Chanithma_HostAddress = http://localhost:5056
+
+GET {{HDCSE53Chanithma_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
